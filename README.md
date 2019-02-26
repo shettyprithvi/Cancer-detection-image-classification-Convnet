@@ -1,4 +1,4 @@
-# Cancer-detection-image-classification-Convnet
+# Cancer detection using image classification (Convolutional Neural Networks)
 
 Classifying tumorous images and non-tumorous images using Convolutional Neural Networks.
 
